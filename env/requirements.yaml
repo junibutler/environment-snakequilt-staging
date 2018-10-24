@@ -22,6 +22,9 @@ dependencies:
 - name: go-nice
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: go-nice-demo
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: node-jenx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
